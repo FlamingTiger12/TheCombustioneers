@@ -1,4 +1,4 @@
-# <Insert Team Name Here>
+# Insert Team Name Here
 ## Coders:
 ## Builders:
 ## Driver:
