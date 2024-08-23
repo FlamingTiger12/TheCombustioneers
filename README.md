@@ -15,7 +15,7 @@
 * Typing Bot
 * Drawing Bot
 * Climby thing
-* Dart/Basketball Bot
+* Dart Bot (MURDER)
 
 ### IF WE DO THE JENGA BOT:
 4.75" 1.5" 1" Blocks
