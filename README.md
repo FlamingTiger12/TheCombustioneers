@@ -1,7 +1,7 @@
 # **Robo Team 7**
 
 ## Team Members:
-### Katelyn|Team Leader|
+### Katelyn|Team Leader|Programmer|
 * #### 
 ### Skyler
 * #### Insert Info Here
