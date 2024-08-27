@@ -2,9 +2,9 @@
 
 ## Team Members:
 ### Katelyn
-#### Insert Info Here
+* #### Insert Info Here
 ### Skyler
-#### Insert Info Here
+* #### Insert Info Here
 
 ![Yay](https://assets.stickpng.com/images/580b57fbd9996e24bc43bdfa.png)
 
