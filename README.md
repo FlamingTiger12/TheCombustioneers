@@ -8,8 +8,8 @@
 *Practices regularly to improve skill and coordination.
 *Works closely with the programmer to understand the robot’s capabilities.
 *Provides feedback on robot performance for further improvements.
-### Andrew
-* #### mechanical enigneer
+### Andrew|Mechanical Engineer|
+* #### 
 ### Meena
 * #### Insert Info Here
 ### Grayden|
