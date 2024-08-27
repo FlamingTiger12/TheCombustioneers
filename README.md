@@ -1,8 +1,8 @@
 # Robo Team 7
 
-## Coders:
-## Builders:
-## Driver:
+## Team Members:
+### Katelyn Lin
+#### * Insert Info Here
 
 ![Yay](https://assets.stickpng.com/images/580b57fbd9996e24bc43bdfa.png)
 
