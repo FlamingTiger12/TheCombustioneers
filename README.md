@@ -2,7 +2,7 @@
 
 ## Team Members:
 ### Katelyn
-* #### Insert Info Here
+* #### Team Leader
 ### Skyler
 * #### Insert Info Here
 ### Andrew
