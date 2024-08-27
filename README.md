@@ -4,13 +4,13 @@
 ### Katelyn|Team Leader|Programmer|
 * #### 
 ### Skyler|Driver|
-*#### Operates the robot during competitions.
+* Operates the robot during competitions.
   
-*#### Practices regularly to improve skill and coordination.
+* Practices regularly to improve skill and coordination.
   
-*#### Works closely with the programmer to understand the robot’s capabilities.
+* Works closely with the programmer to understand the robot’s capabilities.
   
-*#### Provides feedback on robot performance for further improvements.
+* Provides feedback on robot performance for further improvements.
   
 ### Andrew|Mechanical Engineer|
 * Responsibilities:
@@ -18,8 +18,8 @@ Designs and builds the robot’s physical structure.
 Works on the drivetrain, chassis, and any mechanical systems (e.g., arms, lifts, grippers).
 Ensures that the robot meets size, weight, and functional requirements.
 Collaborates with the CAD designer to turn designs into reality.
-### Meena
-* Insert Info Here
+### Meena|Documentation Specialist|Electrical Assistant|
+* Keeps detailed records of the design process, decisions, and progress.
 ### Grayden|Electrical Engineer|
 *  
 
