@@ -22,7 +22,11 @@
 * Keeps detailed records of the design process, decisions, and progress.
 
 ### Grayden|Electrical Engineer|
-*  
+*  I Design and assemble the robot’s electrical systems.
+I Manage wiring, sensors, and power distribution.
+I Ensure that the electrical components work correctly with the mechanical parts.
+I also Troubleshoot electrical issues during testing.
+
 
 ![Yay](https://assets.stickpng.com/images/580b57fbd9996e24bc43bdfa.png)
 
