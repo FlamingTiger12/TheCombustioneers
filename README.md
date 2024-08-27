@@ -3,7 +3,7 @@
 ## Team Members:
 ### Katelyn|Team Leader|Programmer|
 * #### 
-### Skyler* im the driver and this is what i do 
+### Skyler|Driver|
 *Operates the robot during competitions.
 *Practices regularly to improve skill and coordination.
 *Works closely with the programmer to understand the robot’s capabilities.
