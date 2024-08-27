@@ -9,8 +9,8 @@
 * #### mechanical enigneer
 ### Meena
 * #### Insert Info Here
-### Grayden
-* #### Im the mr builder man 
+### Grayden|
+* #### 
 
 ![Yay](https://assets.stickpng.com/images/580b57fbd9996e24bc43bdfa.png)
 
