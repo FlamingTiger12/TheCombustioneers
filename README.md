@@ -13,11 +13,11 @@
 * Provides feedback on robot performance for further improvements.
   
 ### Andrew|Mechanical Engineer|
-* #### 
+* 
 ### Meena
-* #### Insert Info Here
+* Insert Info Here
 ### Grayden|Electrical Engineer|
-* #### 
+*  
 
 ![Yay](https://assets.stickpng.com/images/580b57fbd9996e24bc43bdfa.png)
 
