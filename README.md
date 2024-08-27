@@ -13,7 +13,11 @@
 * Provides feedback on robot performance for further improvements.
   
 ### Andrew|Mechanical Engineer|
-* 
+* Responsibilities:
+Designs and builds the robot’s physical structure.
+Works on the drivetrain, chassis, and any mechanical systems (e.g., arms, lifts, grippers).
+Ensures that the robot meets size, weight, and functional requirements.
+Collaborates with the CAD designer to turn designs into reality.
 ### Meena
 * Insert Info Here
 ### Grayden|Electrical Engineer|
