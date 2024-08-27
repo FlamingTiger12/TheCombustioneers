@@ -2,9 +2,9 @@
 
 ## Team Members:
 ### Katelyn|Team Leader|Programmer|
-* Oversees the team
-* Makes decisions
-* Writes, tests, and debugs the code for the robot and its controls
+* Oversees the team.
+* Makes decisions.
+* Writes, tests, and debugs the code for the robot and its controls.
   
 ### Skyler|Driver|
 * Operates the robot during competitions.
@@ -13,11 +13,10 @@
 * Provides feedback on robot performance for further improvements.
   
 ### Andrew|Mechanical Engineer|
-* Responsibilities:
-Designs and builds the robot’s physical structure.
-Works on the drivetrain, chassis, and any mechanical systems (e.g., arms, lifts, grippers).
-Ensures that the robot meets size, weight, and functional requirements.
-Collaborates with the CAD designer to turn designs into reality.
+* Designs and builds the robot’s physical structure.
+* Works on the drivetrain, chassis, and any mechanical systems (e.g., arms, lifts, grippers).
+* Ensures that the robot meets size, weight, and functional requirements.
+* Collaborates with the CAD designer to turn designs into reality.
 
 ### Meena|Documentation Specialist|Electrical Assistant|
 * Keeps detailed records of the design process, decisions, and progress.
