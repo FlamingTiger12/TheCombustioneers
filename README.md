@@ -31,7 +31,3 @@
 ![Yay](https://assets.stickpng.com/images/580b57fbd9996e24bc43bdfa.png)
 
 ## Robot Name: PUNISHER - Educational Purposes - Mobile - Mini Speedy Forklift
-
-## Plans
-![image](https://github.com/user-attachments/assets/406dbf9b-99a9-4a15-ae5d-bebc742366f3)
-
