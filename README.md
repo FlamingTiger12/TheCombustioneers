@@ -1,10 +1,10 @@
 # **Robo Team 7**
 ### Robot Name: Punisher
 ### Robot Type: Speed Robot, Mobile
-### Robot Goal: To have 3 transmissions
+### Robot Goal: To have 3 speed transmissions
 
 ## Team Members:
-### Katelyn|Team Leader|Programmer|
+### Katelyn|Team Leader|Programmer|CAD Designer|
 * Oversees the team.
 * Makes decisions.
 * Writes, tests, and debugs the code for the robot and its controls.
