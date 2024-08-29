@@ -1,4 +1,7 @@
 # **Robo Team 7**
+## Robot Name: Punisher
+## Robot Type: Speed Robot, Mobile
+## RObot Goal: To have 3 transmissions
 
 ## Team Members:
 ### Katelyn|Team Leader|Programmer|
@@ -20,6 +23,7 @@
 
 ### Meena|Documentation Specialist|Electrical Assistant|
 * Keeps detailed records of the design process, decisions, and progress.
+* Helps with the robot's electrical system.
 
 ### Grayden|Electrical Engineer|
 * Designs and assembles the robot’s electrical systems.
@@ -30,4 +34,3 @@
 
 ![Yay](https://assets.stickpng.com/images/580b57fbd9996e24bc43bdfa.png)
 
-## Robot Name: PUNISHER - Educational Purposes - Mobile - Mini Speedy Forklift
