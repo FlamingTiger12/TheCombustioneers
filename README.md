@@ -1,7 +1,7 @@
 # **Robo Team 7**
-## Robot Name: Punisher
-## Robot Type: Speed Robot, Mobile
-## RObot Goal: To have 3 transmissions
+### Robot Name: Punisher
+### Robot Type: Speed Robot, Mobile
+### Robot Goal: To have 3 transmissions
 
 ## Team Members:
 ### Katelyn|Team Leader|Programmer|
