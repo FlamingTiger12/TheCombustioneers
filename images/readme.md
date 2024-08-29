@@ -1,4 +1,5 @@
 ### Basic Drive System Outline
-![Drive System Plans](https://github.com/user-attachments/assets/7a290c22-a955-458f-99c8-5a9ede0e31d8)
+![Drive System Plans](https://github.com/user-attachments/assets/b96a78c6-4297-498c-994e-0e1dda4c8636)
+
 
 
