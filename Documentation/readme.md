@@ -6,7 +6,7 @@
 ![Basic Drive System Outline](https://github.com/user-attachments/assets/6d866c57-18fc-4c85-b752-21fcf7b400f4)
 ### August 29
 * Research on speed transmissions
-* CAD design
+* CAD designs
 * Basic Interior/Bot Design
 ![Basic Interior/Bot Design](https://github.com/user-attachments/assets/40372435-681d-44c5-b181-f1484e6b251e)
 * Drive System Update
@@ -16,7 +16,11 @@
 ## Week Two: Sep 3-6
 ### September 3
 *Wrap up repo
-*CAD design
+*CAD designs
+![CAD Side View](https://github.com/user-attachments/assets/db8f7d01-a717-484d-b247-7e0f69f3dcc2)
+![CAD Perspective View](https://github.com/user-attachments/assets/e686eb36-a8d6-4a6f-b07c-4d6fd3c716d7)
+![CAD Aerial View](https://github.com/user-attachments/assets/4340ea00-f082-4ebf-8ce8-32ce17e14912)
+
 
 
 
