@@ -1,7 +1,7 @@
 # **Robo Team 7**
-### Robot Name: Punisher
-### Goal: A mobile speed bot with at least three speed transmissions and a little forklift in the front that we could use to carry things like a tray.
-### Metal: Aluminum
+#### Robot Name: Punisher
+#### Goal: A mobile speed bot with at least three speed transmissions and a little forklift in the front that we could use to carry things like a tray.
+#### Metal: Aluminum
 
 ## Team Members:
 ### Katelyn|Team Leader|Programmer|CAD Designer|
