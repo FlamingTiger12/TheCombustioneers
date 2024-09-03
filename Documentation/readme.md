@@ -1,4 +1,4 @@
-# Documentation for Robo Team 7
+# Documentation for The Combustioneers
 ## Week One: Aug 26-30
 ### August 27
 * Square Chassi Build
