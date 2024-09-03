@@ -6,5 +6,7 @@ Basic Drive System Outline
 ### August 29
 * Research on speed transmissions
 * CAD design
+* Basic Interior Design
+![Basic Interior Design] 
 
 
