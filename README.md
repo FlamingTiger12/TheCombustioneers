@@ -31,9 +31,4 @@
 * Ensures that the electrical components work correctly with the mechanical parts.
 * Troubleshoots electrical issues during testing.
 
-
-![Yay](https://assets.stickpng.com/images/580b57fbd9996e24bc43bdfa.png)
-![Basic Drive System Outline](https://github.com/user-attachments/assets/6d866c57-18fc-4c85-b752-21fcf7b400f4)
-![Aerial View](https://github.com/user-attachments/assets/5454442d-fc99-4a5a-bfd6-e24f5ef49439)
-![Persepctive View](https://github.com/user-attachments/assets/ed0d26ca-7a65-4e10-84de-64b0c316ed3e)
-![Side View]![Side View Drive System](https://github.com/user-attachments/assets/d495011e-51d0-402a-aab9-b334528414fe)
+![GIU AMA 255-07](https://github.com/user-attachments/assets/61478399-59d9-4028-b6a7-e34993be9eec)
