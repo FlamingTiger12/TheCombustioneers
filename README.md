@@ -1,7 +1,6 @@
 # **Robo Team 7**
 ### Robot Name: Punisher
-### Robot Type: Speed Robot, Mobile
-### Robot Goal: To have 3 speed transmissions
+We want to create a mobile speed bot with at least three speed transmissions and a little forklift in the front that we could use to carry things like a tray.
 
 ## Team Members:
 ### Katelyn|Team Leader|Programmer|CAD Designer|
