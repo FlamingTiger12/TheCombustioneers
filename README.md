@@ -1,4 +1,4 @@
-# The Combustioneers
+# Team Name: The Combustioneers
 #### Robot Name: Punisher
 #### Goal: A mobile speed bot with at least three speed transmissions and a little forklift in the front that we could use to carry things like a tray.
 #### Metal: Aluminum
@@ -35,3 +35,6 @@
 ![CAD Side View](https://github.com/user-attachments/assets/db8f7d01-a717-484d-b247-7e0f69f3dcc2)
 ![CAD Perspective View](https://github.com/user-attachments/assets/e686eb36-a8d6-4a6f-b07c-4d6fd3c716d7)
 ![CAD Aerial View](https://github.com/user-attachments/assets/4340ea00-f082-4ebf-8ce8-32ce17e14912)
+![Aerial View](https://github.com/user-attachments/assets/5454442d-fc99-4a5a-bfd6-e24f5ef49439)
+![Persepctive View](https://github.com/user-attachments/assets/ed0d26ca-7a65-4e10-84de-64b0c316ed3e)
+![Side View](https://github.com/user-attachments/assets/d495011e-51d0-402a-aab9-b334528414fe)
