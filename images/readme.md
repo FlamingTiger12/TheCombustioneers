@@ -1,4 +1,6 @@
-
+![CAD Side View](https://github.com/user-attachments/assets/d7b4fd85-107c-4ef6-ae79-d4a7e47b8614)
+![CAD Aerial View](https://github.com/user-attachments/assets/f761c244-bfbe-44ae-ac09-668768fc666a)
+![CAD Perspective View](https://github.com/user-attachments/assets/ca88fef8-7024-4658-9de5-903211a431f4)
 ![Drive System Outline Old](https://github.com/user-attachments/assets/b96a78c6-4297-498c-994e-0e1dda4c8636)
 ![GIU AMA 255-07](https://github.com/user-attachments/assets/61478399-59d9-4028-b6a7-e34993be9eec)
 ![Aerial View](https://github.com/user-attachments/assets/5454442d-fc99-4a5a-bfd6-e24f5ef49439)
