@@ -23,7 +23,12 @@
 ![CAD Aerial View](https://github.com/user-attachments/assets/4340ea00-f082-4ebf-8ce8-32ce17e14912)
 ### September 5
 * Finding Parts
+Found- Four outer frame parts for chassi, two wheels
+Need to find- Two wheels, brain, internal systems parts
 * CAD Update
+![CAD Side View Update](https://github.com/user-attachments/assets/40102126-7a22-4e79-b542-a92e5180d971)
+![CAD Perspective View Update](https://github.com/user-attachments/assets/bf522dfc-318f-48a3-ba34-519c67d400a3)
+![CAD Aerial View Update](https://github.com/user-attachments/assets/1e1428e9-d545-448b-97cf-dd8a4a1819c4)
 * Drive System Update 2
 ![Aerial View Drive Update 2](https://github.com/user-attachments/assets/61ff2dd8-1ae5-4557-8f64-11968f61d7f7)
 ![Side View Drive Update 2](https://github.com/user-attachments/assets/acac23e4-3b06-498e-b68a-c1e4757b4d65)
