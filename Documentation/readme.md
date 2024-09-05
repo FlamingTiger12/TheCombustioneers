@@ -21,8 +21,10 @@
 ![CAD Side View](https://github.com/user-attachments/assets/db8f7d01-a717-484d-b247-7e0f69f3dcc2)
 ![CAD Perspective View](https://github.com/user-attachments/assets/e686eb36-a8d6-4a6f-b07c-4d6fd3c716d7)
 ![CAD Aerial View](https://github.com/user-attachments/assets/4340ea00-f082-4ebf-8ce8-32ce17e14912)
-
-
-
-
-
+### September 5
+* Finding Parts
+* CAD Update
+* Drive System Update 2
+![Aerial View Drive Update 2](https://github.com/user-attachments/assets/61ff2dd8-1ae5-4557-8f64-11968f61d7f7)
+![Side View Drive Update 2](https://github.com/user-attachments/assets/acac23e4-3b06-498e-b68a-c1e4757b4d65)
+![Perspective View Drive Update 2](https://github.com/user-attachments/assets/db176e6f-9a76-40b9-b72a-6c76c6cd2eec)
