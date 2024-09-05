@@ -1,7 +1,6 @@
 
 ![Drive System Outline Old](https://github.com/user-attachments/assets/b96a78c6-4297-498c-994e-0e1dda4c8636)
 ![GIU AMA 255-07](https://github.com/user-attachments/assets/61478399-59d9-4028-b6a7-e34993be9eec)
-//ADD THE OLD CAD
 ![Aerial View](https://github.com/user-attachments/assets/5454442d-fc99-4a5a-bfd6-e24f5ef49439)
 ![Persepctive View](https://github.com/user-attachments/assets/ed0d26ca-7a65-4e10-84de-64b0c316ed3e)
 ![Side View](https://github.com/user-attachments/assets/d495011e-51d0-402a-aab9-b334528414fe)
