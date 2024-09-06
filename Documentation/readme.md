@@ -35,3 +35,8 @@ Need to find- Two wheels, brain, internal systems parts
 ![Aerial View Drive Update 2](https://github.com/user-attachments/assets/61ff2dd8-1ae5-4557-8f64-11968f61d7f7)
 ![Side View Drive Update 2](https://github.com/user-attachments/assets/acac23e4-3b06-498e-b68a-c1e4757b4d65)
 ![Perspective View Drive Update 2](https://github.com/user-attachments/assets/db176e6f-9a76-40b9-b72a-6c76c6cd2eec)
+### September 6
+* Finding Parts
+
+  Found- Internal electrical parts
+  Need to find- Two wheels, internal mechanical parts
