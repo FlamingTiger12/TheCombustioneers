@@ -7,7 +7,6 @@
 ### August 29
 * Research on speed transmissions
 * CAD designs
-* Drive System Update
 * Basic Interior/Bot Design
 ![Basic Interior/Bot Design](https://github.com/user-attachments/assets/40372435-681d-44c5-b181-f1484e6b251e)
 * Drive System Update
