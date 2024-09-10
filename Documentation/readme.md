@@ -38,7 +38,7 @@ Need to find- Two wheels, brain, internal systems parts
 ### September 6
 * Finding Parts
 
-  Found- Internal electrical parts, frame for chassi, two wheels
+  Found- Internal electrical parts, frame for chassi, two wheels, small parts bin
  ![Wheels and frame parts](https://github.com/user-attachments/assets/d93940f9-8d6d-4f00-a15d-3827aba1986a)
 ![Vex Parts Box w  Controller, Brain, Etc](https://github.com/user-attachments/assets/449e8b4a-d20b-484d-b5b9-5fba12e07b0c)
 ![All Parts 9 6 24](https://github.com/user-attachments/assets/cc0c8117-609c-499f-94e3-b2e1dc124427)
