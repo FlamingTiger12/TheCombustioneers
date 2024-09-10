@@ -14,3 +14,6 @@
 ![Aerial View Drive Update 2](https://github.com/user-attachments/assets/61ff2dd8-1ae5-4557-8f64-11968f61d7f7)
 ![Side View Drive Update 2](https://github.com/user-attachments/assets/acac23e4-3b06-498e-b68a-c1e4757b4d65)
 ![Perspective View Drive Update 2](https://github.com/user-attachments/assets/db176e6f-9a76-40b9-b72a-6c76c6cd2eec)
+![Wheels and frame parts](https://github.com/user-attachments/assets/d93940f9-8d6d-4f00-a15d-3827aba1986a)
+![Vex Parts Box w  Controller, Brain, Etc](https://github.com/user-attachments/assets/449e8b4a-d20b-484d-b5b9-5fba12e07b0c)
+![All Parts 9 6 24](https://github.com/user-attachments/assets/cc0c8117-609c-499f-94e3-b2e1dc124427)
