@@ -1,3 +1,4 @@
+![Basic Drive System Outline](https://github.com/user-attachments/assets/6d866c57-18fc-4c85-b752-21fcf7b400f4)
 ![CAD Side View](https://github.com/user-attachments/assets/d7b4fd85-107c-4ef6-ae79-d4a7e47b8614)
 ![CAD Aerial View](https://github.com/user-attachments/assets/f761c244-bfbe-44ae-ac09-668768fc666a)
 ![CAD Perspective View](https://github.com/user-attachments/assets/ca88fef8-7024-4658-9de5-903211a431f4)
