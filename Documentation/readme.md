@@ -45,3 +45,15 @@ Need to find- Two wheels, brain, internal systems parts
 
 
 Need to find- Two wheels, internal mechanical parts
+## Week Three: Sep 10-12
+### September 10
+*Finding Parts
+
+Found- Four wheels, internal electrical parts, frame for chassi,small parts bin, tools
+
+Need to find- Transmission parts
+
+* Built Chassi Frame
+
+   ![September 10](https://github.com/user-attachments/assets/2e1a1125-c5cf-48b6-92ee-2ffeea32539a)
+
