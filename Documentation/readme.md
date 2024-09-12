@@ -47,7 +47,7 @@ Need to find- Two wheels, brain, internal systems parts
 Need to find- Two wheels, internal mechanical parts
 ## Week Three: Sep 10-12
 ### September 10
-*Finding Parts
+* Finding Parts
 
 Found- Four wheels, internal electrical parts, frame for chassi,small parts bin, tools
 
