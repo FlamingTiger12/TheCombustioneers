@@ -56,4 +56,7 @@ Need to find- Transmission parts
 * Built Chassi Frame
 
    ![September 10](https://github.com/user-attachments/assets/2e1a1125-c5cf-48b6-92ee-2ffeea32539a)
+### September 12
+* Prepping for mounting wheels and motors
+* Transmission research
 
