@@ -17,3 +17,4 @@
 ![Wheels and frame parts](https://github.com/user-attachments/assets/d93940f9-8d6d-4f00-a15d-3827aba1986a)
 ![Vex Parts Box w  Controller, Brain, Etc](https://github.com/user-attachments/assets/449e8b4a-d20b-484d-b5b9-5fba12e07b0c)
 ![All Parts 9 6 24](https://github.com/user-attachments/assets/cc0c8117-609c-499f-94e3-b2e1dc124427)
+ ![September 10](https://github.com/user-attachments/assets/2e1a1125-c5cf-48b6-92ee-2ffeea32539a)
