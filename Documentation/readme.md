@@ -59,7 +59,9 @@ Need to find- Transmission parts
 ### September 12
 * Prepping for mounting wheels and motors
 Finding Parts:
+
 Found- One support, one screw
+
 Need to find- Three more supports, three screws
 * Transmission research
 
