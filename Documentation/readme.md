@@ -58,5 +58,16 @@ Need to find- Transmission parts
    ![September 10](https://github.com/user-attachments/assets/2e1a1125-c5cf-48b6-92ee-2ffeea32539a)
 ### September 12
 * Prepping for mounting wheels and motors
+Finding Parts:
+Found- One support, one screw
+Need to find- Three more supports, three screws
 * Transmission research
+
+## Week Four: Sep 17-19
+### September 17
+* Finding transmission parts
+* Motor installation design change- No need for supports, just mounting wheels and attaching with screws
+### September 19 
+* Start building transmission
+* Motors installed
 
