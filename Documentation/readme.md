@@ -72,4 +72,6 @@ Need to find- Three more supports, three screws
 ### September 19 
 * Start building transmission
 * Motors installed
+## Week Five: Sep 24-28
+### September 24
 
