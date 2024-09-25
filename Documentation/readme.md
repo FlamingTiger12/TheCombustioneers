@@ -74,4 +74,6 @@ Need to find- Three more supports, three screws
 * Motors installed
 ## Week Five: Sep 24-28
 ### September 24
-
+* Turns out we did the whole thing wrong... dismantle and rebuild chassi
+* Tank Drive code test
+* Connect controller wirelessly
