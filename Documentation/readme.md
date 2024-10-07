@@ -77,3 +77,17 @@ Need to find- Three more supports, three screws
 * Turns out we did the whole thing wrong... dismantle and rebuild chassi
 * Tank Drive code test
 * Connect controller wirelessly
+## Week Six: Oct 1-3
+### October 1
+* Finish rebuilding chassi
+* Enter code
+* Code Test
+* First drive
+![Finished Drive 1](https://github.com/user-attachments/assets/65538152-16b9-4929-bd8d-6a8693a1a4bd)
+### October 3
+* Sumo Match
+![Sumo Ready 1 (Close)](https://github.com/user-attachments/assets/b231aa6d-67dc-4085-8497-a708a969ea92)
+![Sumo Ready 2 (Far)](https://github.com/user-attachments/assets/e97fa31b-8b0e-4ec9-8340-a761787f5914)
+![Sumo Ready 3 (Center)](https://github.com/user-attachments/assets/c13c2280-2c5d-49ed-9be2-b28f4374d3db)
+
+
