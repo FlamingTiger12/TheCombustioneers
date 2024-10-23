@@ -89,5 +89,25 @@ Need to find- Three more supports, three screws
 ![Sumo Ready 1 (Close)](https://github.com/user-attachments/assets/b231aa6d-67dc-4085-8497-a708a969ea92)
 ![Sumo Ready 2 (Far)](https://github.com/user-attachments/assets/e97fa31b-8b0e-4ec9-8340-a761787f5914)
 ![Sumo Ready 3 (Center)](https://github.com/user-attachments/assets/c13c2280-2c5d-49ed-9be2-b28f4374d3db)
+## Week Seven: Oct 8-10
+### October 8
+* Replace broken motor
+* Troubleshoot code
+### October 10 
+* Fix code for drive controls
+* Driver training
+## Week Eight: Oct 15-17
+### October 15
+* Transmission research
+* Gather transmission parts
+### October 17
+* Start building transmission
+* Dissassemble bot for improvements
+## Week Nine: Oct 22-25
+### October 22
+* Building transmission
+* Dissassemble bot for improvements
+* Getting VEX High Stakes Object (Blue ring)
+  
 
 
