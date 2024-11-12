@@ -1,4 +1,5 @@
 # Documentation for The Combustioneers
+* Certain days may not be included due to repetitive events
 ## Week One: Aug 26-30
 ### August 27
 * Square Chassi Build
@@ -103,11 +104,18 @@ Need to find- Three more supports, three screws
 ### October 17
 * Start building transmission
 * Dissassemble bot for improvements
-## Week Nine: Oct 22-25
+## Week Nine: Oct 22-24
 ### October 22
 * Building transmission
 * Dissassemble bot for improvements
 * Getting VEX High Stakes Object (Blue ring)
+### October 25
+* Building transmission (Need more magic donuts!!!)
+* License plates
+## Week Ten: Oct 29-31
+### October 31
+* Capture the flag practice rounds
+## Week Eleven: Nov 5-8
   
 
 
