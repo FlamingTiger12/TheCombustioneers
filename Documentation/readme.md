@@ -115,7 +115,22 @@ Need to find- Three more supports, three screws
 ## Week Ten: Oct 29-31
 ### October 31
 * Capture the flag practice rounds
-## Week Eleven: Nov 5-8
+## Week Eleven: Nov 5-7
+### November 5
+* Got more magic donuts
+* Start building spare "drivable bot for Capture the Flag
+* Building transmission
+### November 7
+* Finish transmission
+* Continue building second bot (Rudolph)
+## Week Twelve: Nov 12- 15 
+### November 12
+* Finish second bot
+* Bumper sensor decided
+### NOvember 14
+* Code second bot and its bumper
+### November 15
+* CAPTURE THE FLAG!!!
   
 
 
