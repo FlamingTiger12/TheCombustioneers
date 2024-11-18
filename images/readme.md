@@ -38,4 +38,21 @@
 
  ![September 10](https://github.com/user-attachments/assets/2e1a1125-c5cf-48b6-92ee-2ffeea32539a)
 
+![Blue Ring Capture the Flag 1- Practice](https://github.com/user-attachments/assets/86a8f8c4-40bc-4b21-9cfc-027eaf0dbc0e)
+
+
+
+https://github.com/user-attachments/assets/4eab8242-9dc0-4859-9f4a-7661e112993c
+
+![Repairs Capture the Flag 1- Practice](https://github.com/user-attachments/assets/f1ffb9ae-f887-437a-bcae-3b83f0328889)
+![Red Ring Capture the Flag 1- Practice](https://github.com/user-attachments/assets/c41c77df-34aa-4964-aa48-18167a0b0f9e)
+![Idol Capture the Flag 1- Practice](https://github.com/user-attachments/assets/0212f387-f76b-4c24-839a-88e390fb30f7)
+![Wig Tragedy Capture the Flag 1- Practice](https://github.com/user-attachments/assets/0fbf2f7d-5826-450a-86af-b60e37962a88)
+![Red Team Ready Capture the Flag 1- Practice](https://github.com/user-attachments/assets/1662cf68-31cd-41ad-8cc8-35c90a9da8e1)
+![Blue Team Ready Capture the Flag 1- Practice](https://github.com/user-attachments/assets/0b825b80-f77f-4e89-955c-3ce594abc4cd)
+![Rudolph Front Capture the Flag 2](https://github.com/user-attachments/assets/e4ad58f0-535b-426f-bbb9-44c786118bb1)
+![Rudolph Back Side Angle Capture the Flag 2](https://github.com/user-attachments/assets/52b8d8ce-9888-4f3f-b0cb-bad2871deeb4)
+![Bot Bash Capture the Flag 2](https://github.com/user-attachments/assets/020ec29f-63df-413a-9ee0-d5f6f2d4c257)
+![Bot w  Red Ring 1 Capture the Flag 2](https://github.com/user-attachments/assets/d9bfed25-de7c-4de5-942c-eae4c6f956ec)
+![Bot w  Red Ring 2 Capture the Flag 2](https://github.com/user-attachments/assets/90306465-4fcb-4e7f-a27c-b9358e33c2f7)
 
