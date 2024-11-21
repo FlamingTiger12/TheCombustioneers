@@ -127,10 +127,13 @@ Need to find- Three more supports, three screws
 ### November 12
 * Finish second bot
 * Bumper sensor decided
-### NOvember 14
+### November 14
 * Code second bot and its bumper
 ### November 15
 * CAPTURE THE FLAG!!!
+## Week Thirteen: Nov 19-21
+### November 19
+* Career Search FollowUp
   
 
 
