@@ -115,10 +115,18 @@ Need to find- Three more supports, three screws
 ## Week Ten: Oct 29-31
 ### October 31
 * Capture the flag practice rounds
+![Repairs Capture the Flag 1- Practice](https://github.com/user-attachments/assets/fee12e33-7b77-4166-bf72-d69d22ac9de8)
+![Red Ring Capture the Flag 1- Practice](https://github.com/user-attachments/assets/7c34459b-aa4b-4666-94c6-e8866cfed682)
+![Idol Capture the Flag 1- Practice](https://github.com/user-attachments/assets/b25cf38f-52e8-4265-beea-cd8511e0a461)
+![Wig Tragedy Capture the Flag 1- Practice](https://github.com/user-attachments/assets/5c242a9f-db0e-44a8-bc96-e6b28bf8b7d4)
+![Red Team Ready Capture the Flag 1- Practice](https://github.com/user-attachments/assets/3f8207b7-e8bf-4475-bbb3-6dd3a1690222)
+![Blue Team Ready Capture the Flag 1- Practice](https://github.com/user-attachments/assets/11a57418-6f25-45d6-bc08-ea319d7b470a)
+![Another Blue Win Capture the Flag 1- Practice](https://github.com/user-attachments/assets/dbfd8070-799c-4907-b535-c2d9e8297a24)
+![Blue Ring Capture the Flag 1- Practice](https://github.com/user-attachments/assets/40bc3b99-7e66-4ee2-9164-3aea3a175f02)
 ## Week Eleven: Nov 5-7
 ### November 5
 * Got more magic donuts
-* Start building spare "drivable bot for Capture the Flag
+* Start building spare drivable bot for Capture the Flag
 * Building transmission
 ### November 7
 * Finish transmission
@@ -131,9 +139,30 @@ Need to find- Three more supports, three screws
 * Code second bot and its bumper
 ### November 15
 * CAPTURE THE FLAG!!!
+![Bot w  Red Ring 2 Capture the Flag 2](https://github.com/user-attachments/assets/52dccf80-5701-46eb-a86e-4beb085780f5)
+![Bot w  Red Ring 1 Capture the Flag 2](https://github.com/user-attachments/assets/7658ee1b-1d26-44ef-8a75-e12690206508)
+![Bot Bash Capture the Flag 2](https://github.com/user-attachments/assets/f91ed18a-91f9-4069-bf9f-698c74a962a9)
+![Capture the Flag 2 Vid 1](https://github.com/user-attachments/assets/5d722514-0253-4fc4-a316-e0149c1c7a48)
+![Capture the Flag 2 Vid 2](https://github.com/user-attachments/assets/1f3860e4-8dda-4515-bc3e-2d1d11210318)
+![Rudolph Front Capture the Flag 2](https://github.com/user-attachments/assets/78775395-4de6-4aa5-9cca-6b24e740563f)
+![Rudolph Back Side Angle Capture the Flag 2](https://github.com/user-attachments/assets/fc516a84-02cf-48a4-a63a-099471f010b4)
 ## Week Thirteen: Nov 19-21
 ### November 19
 * Career Search FollowUp
+### November 21
+* Transmission documentation
+## Week 14: Nov 26
+### November 26
+* Video games and chill
+### Week 15: Dec 3-5
+### December 3
+* Get ready for Capture the Flag
+### December 5
+* Last Capture the Flag: #3
+![Rudolph Ready w  Katelyn Capture the Flag 3](https://github.com/user-attachments/assets/be9967b0-9e91-4143-a189-51509a0a7ebd)       ![Katelyn ready to drive Capture the Flag 3](https://github.com/user-attachments/assets/92f2c2d9-66a5-49b4-ae46-496e0009d1cd)
+![Rudolph Ready Capture the Flag 3](https://github.com/user-attachments/assets/2893b209-9e95-487e-8d8f-991fa2aea15f)
+![Just two bots in a spot Capture the Flag 3](https://github.com/user-attachments/assets/a2be0cd1-237c-4652-b850-825d7adcc81c)
+* Start bot disassembly
   
 
 
