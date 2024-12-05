@@ -64,3 +64,16 @@ https://github.com/user-attachments/assets/4eab8242-9dc0-4859-9f4a-7661e112993c
 
 ![Bot w  Red Ring 2 Capture the Flag 2](https://github.com/user-attachments/assets/90306465-4fcb-4e7f-a27c-b9358e33c2f7)
 
+![Katelyn at work](https://github.com/user-attachments/assets/a9ed6134-6765-49a1-945d-7978af8a69d9)
+
+![Katelyn w  Rudolph](https://github.com/user-attachments/assets/dc4d5a32-02cb-420d-8a5d-b5f62bf2d1a1)
+
+![Just two bots in a spot Capture the Flag 3](https://github.com/user-attachments/assets/7745fd23-843e-41f0-8e1f-f02f80dac855)
+
+![Rudolph Ready Capture the Flag 3](https://github.com/user-attachments/assets/0f546ac7-6143-44f8-83f3-894f3bfb3b5f)
+
+![Katelyn ready to drive Capture the Flag 3](https://github.com/user-attachments/assets/3c091b85-7516-4907-97ab-2a52b2c378ad)
+
+![Rudolph Ready w  Katelyn Capture the Flag 3](https://github.com/user-attachments/assets/a9649fa3-9c50-48a9-a956-082d87d106ff)
+
+
