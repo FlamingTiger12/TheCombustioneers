@@ -163,6 +163,9 @@ Need to find- Three more supports, three screws
 ![Rudolph Ready Capture the Flag 3](https://github.com/user-attachments/assets/2893b209-9e95-487e-8d8f-991fa2aea15f)
 ![Just two bots in a spot Capture the Flag 3](https://github.com/user-attachments/assets/a2be0cd1-237c-4652-b850-825d7adcc81c)
 * Start bot disassembly
+* Sorry Skyler... Group picture!
+![Group Photo (Sorry Skyler)](https://github.com/user-attachments/assets/090695e8-fb6f-445b-840c-30b4af6f5190)
+
   
 
 
