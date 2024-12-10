@@ -159,13 +159,16 @@ Need to find- Three more supports, three screws
 * Get ready for Capture the Flag
 ### December 5
 * Last Capture the Flag: #3
-![Rudolph Ready w  Katelyn Capture the Flag 3](https://github.com/user-attachments/assets/be9967b0-9e91-4143-a189-51509a0a7ebd)       ![Katelyn ready to drive Capture the Flag 3](https://github.com/user-attachments/assets/92f2c2d9-66a5-49b4-ae46-496e0009d1cd)
+![Rudolph Ready w  Katelyn Capture the Flag 3](https://github.com/user-attachments/assets/be9967b0-9e91-4143-a189-51509a0a7ebd)
+![Katelyn ready to Drive](https://github.com/user-attachments/assets/92f2c2d9-66a5-49b4-ae46-496e0009d1cd)
 ![Rudolph Ready Capture the Flag 3](https://github.com/user-attachments/assets/2893b209-9e95-487e-8d8f-991fa2aea15f)
 ![Just two bots in a spot Capture the Flag 3](https://github.com/user-attachments/assets/a2be0cd1-237c-4652-b850-825d7adcc81c)
 * Start bot disassembly
 * Sorry Skyler... Group picture!
 ![Group Photo (Sorry Skyler)](https://github.com/user-attachments/assets/090695e8-fb6f-445b-840c-30b4af6f5190)
-
+## Week 16: Dec 10-14
+### December 10
+* Submit repo
   
 
 
