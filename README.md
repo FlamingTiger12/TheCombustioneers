@@ -1,8 +1,8 @@
 # Team Name: The Combustioneers
 #### Robot Name: Punisher
-#### Goal: A mobile speed bot with at least three speed transmissions and a little forklift in the front that we could use to carry things like a tray.
+#### Goal: A mobile bot, 3 speed transmission
 #### Metal: Aluminum
-#### Chassi: Square Chassi
+#### Chassis: Square Chassis
 
 ## Team Members:
 ### Katelyn|Team Leader|Programmer|CAD Designer|
