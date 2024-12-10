@@ -137,6 +137,7 @@ Need to find- Three more supports, three screws
 * Bumper sensor decided
 ### November 14
 * Code second bot and its bumper
+  ![Rudolph front w/ sensor](https://github.com/user-attachments/assets/8c222a71-786b-4738-bfb0-bd5889a1ee7d)
 ### November 15
 * CAPTURE THE FLAG!!!
 ![Bot w  Red Ring 2 Capture the Flag 2](https://github.com/user-attachments/assets/52dccf80-5701-46eb-a86e-4beb085780f5)
